@@ -56,7 +56,7 @@ MVP 구현이 끝나는 대로 실제 스크린샷으로 이 섹션을 채울 �
 | 이름 | GitHub | 담당 | 주요 작업 | 코드 |
 | --- | --- | --- | --- | --- |
 | 원정린 | [justinweon](https://github.com/justinweon) | Data Management | 약어 사전 데이터 설계·수집, Supabase DB 구성, API 연동 | 준비 중 |
-| mjlee0914 | [mjlee0914](https://github.com/mjlee0914) | Frontend | 위젯 UI 구현, 검색/결과 렌더링, 이벤트 처리 | 준비 중 |
+| 이명지 | [mjlee0914](https://github.com/mjlee0914) | Frontend | 위젯 UI 구현, 검색/결과 렌더링, 이벤트 처리 | 준비 중 |
 
 전체 변경 과정은 [커밋 이력](https://github.com/codelette-dev/codelette/commits/main/)과 [Pull Request 목록](https://github.com/codelette-dev/codelette/pulls?q=is%3Apr)에서 확인할 수 있습니다.
 
