@@ -49,7 +49,7 @@ MVP 구현이 끝나는 대로 실제 스크린샷으로 이 섹션을 채울 �
 <table>
   <tr>
     <td align="center"><a href="https://github.com/justinweon"><img src="https://github.com/justinweon.png?size=120" width="80" alt="원정린 GitHub 프로필"><br><b>원정린</b></a><br>Data Management</td>
-    <td align="center"><a href="https://github.com/mjlee0914"><img src="https://github.com/mjlee0914.png?size=120" width="80" alt="mjlee0914 GitHub 프로필"><br><b>mjlee0914</b></a><br>Frontend</td>
+    <td align="center"><a href="https://github.com/mjlee0914"><img src="https://github.com/mjlee0914.png?size=120" width="80" alt="mjlee0914 GitHub 프로필"><br><b>이명지</b></a><br>Frontend</td>
   </tr>
 </table>
 
